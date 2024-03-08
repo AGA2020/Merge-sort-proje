@@ -18,6 +18,6 @@ Big-O gösterimini yazınız.
 ![](image.png)
 
 ## b) 
-2^x=n
-logn=x
-O(nlogn)
+1. 2^x=n
+2. logn=x
+3. O(nlogn)
